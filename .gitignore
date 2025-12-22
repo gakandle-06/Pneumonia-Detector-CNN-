@@ -1,0 +1,9 @@
+node_modules/ 
+*.log 
+.ipynb_checkpoints/ 
+train/ 
+valid/ 
+test/ 
+P/ 
+random/ 
+*.weights.h5 
