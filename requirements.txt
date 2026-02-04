@@ -1,0 +1,27 @@
+# Core Deep Learning
+tensorflow>=2.15.0
+keras>=3.0
+
+# Data Manipulation & Math
+numpy
+pandas
+scikit-learn
+
+# Image Processing
+opencv-python
+Pillow
+scikit-image
+
+# Visualization
+matplotlib
+seaborn
+
+# Jupyter Connectivity
+ipykernel
+urllib3<2.0
+
+# pip install -r requirements.txt
+# pip freeze > requirements.txt
+# This creates a folder named ".venv" in your current directory
+# python -m venv .venv
+# source .venv/bin/activate
